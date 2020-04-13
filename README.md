@@ -4,10 +4,9 @@ This is a flappy bird knock off game. It was developed using [libGdx].
 
 ### Screen Shots
 
-![](https://github.com/marcorod94/libgdx-flappy-demo/blob/master/media/main_menu.png)
+![](https://github.com/marcorod94/libgdx-flappy-demo/blob/master/media/demo.gif)
 
-![](https://github.com/marcorod94/libgdx-flappy-demo/blob/master/media/play.png)
-
+<img src="https://github.com/marcorod94/libgdx-flappy-demo/blob/master/media/demo.gif" alt="Demo" width="200" height="200"/>
 
 ## Author (Marco Rodriguez)
 I’m a Software Engineer from Ecuador. I enjoy to code and I love learning new programing languages. Currently I’m very interested on game development.
